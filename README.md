@@ -31,4 +31,5 @@
 - [2021-9-4-剑指 Offer 10- I. 斐波那契数列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-4-%E5%89%91%E6%8C%87%20Offer%2010-%20I.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
 - [2021-9-5-470. 用 Rand7() 实现 Rand10()](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-5-470.%20%E7%94%A8%20Rand7()%20%E5%AE%9E%E7%8E%B0%20Rand10().md)
 - [2021-9-6-704. 二分查找](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-6-704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+- [2021-9-7-1221. 分割平衡字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-7-1221.%20%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
