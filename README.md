@@ -33,4 +33,5 @@
 - [2021-9-6-704. 二分查找](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-6-704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
 - [2021-9-7-1221. 分割平衡字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-7-1221.%20%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 - [2021-9-8-502. IPO](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-8-502.%20IPO.md)
+- [2021-9-9-68. 文本左右对齐](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-9-68.%20%E6%96%87%E6%9C%AC%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90.md)
 
