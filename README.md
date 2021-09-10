@@ -25,14 +25,14 @@
 
 ## 🚩2021年9月（更新中...）
 
-- [2021-9-1-165. 比较版本号](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-01-165.%20%E6%AF%94%E8%BE%83%E7%89%88%E6%9C%AC%E5%8F%B7.md)
-- [2021-9-2-剑指 Offer 22. 链表中倒数第k个节点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-02-%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
-- [2021-9-3-面试题 17.14. 最小K个数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-03-%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.%20%E6%9C%80%E5%B0%8FK%E4%B8%AA%E6%95%B0.md)
-- [2021-9-4-剑指 Offer 10- I. 斐波那契数列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-04-%E5%89%91%E6%8C%87%20Offer%2010-%20I.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
-- [2021-9-5-470. 用 Rand7() 实现 Rand10()](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-05-470.%20%E7%94%A8%20Rand7()%20%E5%AE%9E%E7%8E%B0%20Rand10().md)
-- [2021-9-6-704. 二分查找](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-06-704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
-- [2021-9-7-1221. 分割平衡字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-07-1221.%20%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
-- [2021-9-8-502. IPO](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-08-502.%20IPO.md)
-- [2021-9-9-68. 文本左右对齐](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-09-68.%20%E6%96%87%E6%9C%AC%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90.md)
+- [2021-9-01-165. 比较版本号](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-01-165.%20%E6%AF%94%E8%BE%83%E7%89%88%E6%9C%AC%E5%8F%B7.md)
+- [2021-9-02-剑指 Offer 22. 链表中倒数第k个节点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-02-%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+- [2021-9-03-面试题 17.14. 最小K个数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-03-%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.%20%E6%9C%80%E5%B0%8FK%E4%B8%AA%E6%95%B0.md)
+- [2021-9-04-剑指 Offer 10- I. 斐波那契数列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-04-%E5%89%91%E6%8C%87%20Offer%2010-%20I.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
+- [2021-9-05-470. 用 Rand7() 实现 Rand10()](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-05-470.%20%E7%94%A8%20Rand7()%20%E5%AE%9E%E7%8E%B0%20Rand10().md)
+- [2021-9-06-704. 二分查找](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-06-704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+- [2021-9-07-1221. 分割平衡字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-07-1221.%20%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [2021-9-08-502. IPO](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-08-502.%20IPO.md)
+- [2021-9-09-68. 文本左右对齐](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-09-68.%20%E6%96%87%E6%9C%AC%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90.md)
 - [2021-9-10-1894. 找到需要补充粉笔的学生编号](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-10-1894.%20%E6%89%BE%E5%88%B0%E9%9C%80%E8%A6%81%E8%A1%A5%E5%85%85%E7%B2%89%E7%AC%94%E7%9A%84%E5%AD%A6%E7%94%9F%E7%BC%96%E5%8F%B7.md)
 
