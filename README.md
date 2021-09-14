@@ -38,4 +38,5 @@
 - [2021-9-11-600. 不含连续1的非负整数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-11-660.%20%E4%B8%8D%E5%90%AB%E8%BF%9E%E7%BB%AD1%E7%9A%84%E9%9D%9E%E8%B4%9F%E6%95%B4%E6%95%B0.md)
 - [2021-9-12-678. 有效的括号字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-12-678.%20%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 - [2021-9-13-447. 回旋镖的数量](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-13-447.%20%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8F.md)
+- [2021-9-14-524. 通过删除字母匹配到字典里最长单词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-14-524.%20%E9%80%9A%E8%BF%87%E5%88%A0%E9%99%A4%E5%AD%97%E6%AF%8D%E5%8C%B9%E9%85%8D%E5%88%B0%E5%AD%97%E5%85%B8%E9%87%8C%E6%9C%80%E9%95%BF%E5%8D%95%E8%AF%8D.md)
 
