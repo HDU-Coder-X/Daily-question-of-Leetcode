@@ -41,4 +41,5 @@
 - [2021-9-14-524. 通过删除字母匹配到字典里最长单词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-14-524.%20%E9%80%9A%E8%BF%87%E5%88%A0%E9%99%A4%E5%AD%97%E6%AF%8D%E5%8C%B9%E9%85%8D%E5%88%B0%E5%AD%97%E5%85%B8%E9%87%8C%E6%9C%80%E9%95%BF%E5%8D%95%E8%AF%8D.md)
 - [2021-9-15-162. 寻找峰值](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-15-162.%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.md)
 - [2021-9-16-212. 单词搜索 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-16-212.%20%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.md)
+- [2021-9-17-36. 有效的数独](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-17-36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md)
 
