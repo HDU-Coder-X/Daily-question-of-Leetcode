@@ -42,4 +42,5 @@
 - [2021-9-15-162. 寻找峰值](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-15-162.%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.md)
 - [2021-9-16-212. 单词搜索 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-16-212.%20%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.md)
 - [2021-9-17-36. 有效的数独](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-17-36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md)
+- [2021-9-18-292. Nim 游戏](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-18-292.%20Nim%20%E6%B8%B8%E6%88%8F.md)
 
