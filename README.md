@@ -47,4 +47,5 @@
 - [2021-9-21-58. 最后一个单词的长度](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-21-58.%20%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.md)
 - [2021-9-22-725. 分隔链表](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-22-725.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md)
 - [2021-9-23-326. 3的幂](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-23-326.%203%E7%9A%84%E5%B9%82.md)
+- [2021-9-24-430. 扁平化多级双向链表](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-24-430.%20扁平化多级双向链表.md)
 
