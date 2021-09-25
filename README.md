@@ -48,4 +48,5 @@
 - [2021-9-22-725. 分隔链表](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-22-725.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md)
 - [2021-9-23-326. 3的幂](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-23-326.%203%E7%9A%84%E5%B9%82.md)
 - [2021-9-24-430. 扁平化多级双向链表](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-24-430.%20扁平化多级双向链表.md)
+- [2021-9-25-583. 两个字符串的删除操作](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-25-583.%20两个字符串的删除操作.md)
 
