@@ -23,7 +23,7 @@
 - [2021-8-30-528. 按权重随机选择](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-8-30-528.%20%E6%8C%89%E6%9D%83%E9%87%8D%E9%9A%8F%E6%9C%BA%E9%80%89%E6%8B%A9.md)
 - [2021-8-31-1109. 航班预订统计](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-8-31-1109.%20%E8%88%AA%E7%8F%AD%E9%A2%84%E8%AE%A2%E7%BB%9F%E8%AE%A1.md)
 
-## 🚩2021年9月（更新中...）
+## 🚩2021年9月
 
 - [2021-9-01-165. 比较版本号](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-01-165.%20%E6%AF%94%E8%BE%83%E7%89%88%E6%9C%AC%E5%8F%B7.md)
 - [2021-9-02-剑指 Offer 22. 链表中倒数第k个节点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-02-%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
@@ -54,3 +54,6 @@
 - [2021-9-29-517. 超级洗衣机](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-29-517.%20超级洗衣机.md)
 - [2021-9-30-223. 矩形面积](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-9-30-223.%20矩形面积.md)
 
+## 🚩2021年10月（更新中...）
+
+- [2021-10-1-1436. 旅行终点站](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-1-1436.%20旅行终点站.md)
