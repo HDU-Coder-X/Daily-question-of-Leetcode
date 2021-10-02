@@ -57,3 +57,4 @@
 ## 🚩2021年10月（更新中...）
 
 - [2021-10-1-1436. 旅行终点站](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-1-1436.%20旅行终点站.md)
+- [405.数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
