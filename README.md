@@ -58,4 +58,5 @@
 
 - [2021-10-1-1436. 旅行终点站](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-1-1436.%20旅行终点站.md)
 - [2021-10-2-405. 数字转换为十六进制数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-2-405.%20%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.md)
+- [2021-10-3-166. 分数到小数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-3-166.%20分数到小数.md)
 
