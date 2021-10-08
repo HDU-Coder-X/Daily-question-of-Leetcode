@@ -63,4 +63,5 @@
 - [2021-10-5-284. 顶端迭代器](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-5-284.%20顶端迭代器.md)
 - [2021-10-6-414. 第三大的数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-6-414.%20第三大的数.md)
 - [2021-10-7-434. 字符串中的单词数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-7-434.%20字符串中的单词数.md)
+- [2021-10-8-187. 重复的DNA序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-8-187.%20重复的DNA序列.md)
 
