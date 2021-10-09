@@ -56,12 +56,13 @@
 
 ## 🚩2021年10月（更新中...）
 
-- [2021-10-1-1436. 旅行终点站](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-1-1436.%20旅行终点站.md)
-- [2021-10-2-405. 数字转换为十六进制数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-2-405.%20%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.md)
-- [2021-10-3-166. 分数到小数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-3-166.%20分数到小数.md)
-- [2021-10-4-482. 密钥格式化](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-4-482.%20密钥格式化.md)
-- [2021-10-5-284. 顶端迭代器](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-5-284.%20顶端迭代器.md)
-- [2021-10-6-414. 第三大的数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-6-414.%20第三大的数.md)
-- [2021-10-7-434. 字符串中的单词数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-7-434.%20字符串中的单词数.md)
-- [2021-10-8-187. 重复的DNA序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-8-187.%20重复的DNA序列.md)
+- [2021-10-01-1436. 旅行终点站](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-01-1436.%20旅行终点站.md)
+- [2021-10-02-405. 数字转换为十六进制数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-02-405.%20%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.md)
+- [2021-10-03-166. 分数到小数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-03-166.%20分数到小数.md)
+- [2021-10-04-482. 密钥格式化](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-04-482.%20密钥格式化.md)
+- [2021-10-05-284. 顶端迭代器](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-05-284.%20顶端迭代器.md)
+- [2021-10-06-414. 第三大的数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-06-414.%20第三大的数.md)
+- [2021-10-07-434. 字符串中的单词数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-07-434.%20字符串中的单词数.md)
+- [2021-10-08-187. 重复的DNA序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-08-187.%20重复的DNA序列.md)
+- [2021-10-09-352. 将数据流变为多个不相交区间](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-09-352.%20将数据流变为多个不相交区间.md)
 
