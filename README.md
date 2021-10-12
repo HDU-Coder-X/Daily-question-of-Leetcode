@@ -67,4 +67,5 @@
 - [2021-10-09-352. 将数据流变为多个不相交区间](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-09-352.%20将数据流变为多个不相交区间.md)
 - [2021-10-10-441. 排列硬币](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-10-441.%20排列硬币.md)
 - [2021-10-11-273. 整数转换英文表示](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-11-273.%20整数转换英文表示.md)
+- [2021-10-12-29. 两数相除](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-12-29.%20两数相除.md)
 
