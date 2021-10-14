@@ -69,4 +69,5 @@
 - [2021-10-11-273. 整数转换英文表示](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-11-273.%20整数转换英文表示.md)
 - [2021-10-12-29. 两数相除](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-12-29.%20两数相除.md)
 - [2021-10-13-412. Fizz Buzz](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-13-412.%20Fizz%20Buzz.md)
+- [2021-10-14-剑指 Offer II 069. 山峰数组的顶部](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-14-剑指%20Offer%20II%20069.%20山峰数组的顶部.md)
 
