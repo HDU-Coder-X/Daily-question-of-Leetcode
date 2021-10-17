@@ -72,4 +72,5 @@
 - [2021-10-14-剑指 Offer II 069. 山峰数组的顶部](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-14-剑指%20Offer%20II%20069.%20山峰数组的顶部.md)
 - [2021-10-15-38. 外观数列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-15-38.%20外观数列.md)
 - [2021-10-16-282. 给表达式添加运算符](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-16-282.%20给表达式添加运算符.md)
+- [2021-10-17-230. 二叉搜索树中第K小的元素](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-17-230.%20二叉搜索树中第K小的元素.md)
 
