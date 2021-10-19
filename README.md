@@ -74,4 +74,5 @@
 - [2021-10-16-282. 给表达式添加运算符](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-16-282.%20给表达式添加运算符.md)
 - [2021-10-17-230. 二叉搜索树中第K小的元素](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-17-230.%20二叉搜索树中第K小的元素.md)
 - [2021-10-18-476. 数字的补数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-18-476.%20数字的补数.md)
+- [2021-10-19-211. 添加与搜索单词 - 数据结构设计](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-19-211.%20添加与搜索单词%20-%20数据结构设计.md)
 
