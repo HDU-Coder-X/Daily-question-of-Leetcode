@@ -76,4 +76,5 @@
 - [2021-10-18-476. 数字的补数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-18-476.%20数字的补数.md)
 - [2021-10-19-211. 添加与搜索单词 - 数据结构设计](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-19-211.%20添加与搜索单词%20-%20数据结构设计.md)
 - [2021-10-20-453. 最小操作次数使数组元素相等](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-20-453.%20最小操作次数使数组元素相等.md)
+- [2021-10-21-66. 加一](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-21-66.%20加一.md)
 
