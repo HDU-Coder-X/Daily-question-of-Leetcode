@@ -78,4 +78,5 @@
 - [2021-10-20-453. 最小操作次数使数组元素相等](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-20-453.%20最小操作次数使数组元素相等.md)
 - [2021-10-21-66. 加一](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-21-66.%20加一.md)
 - [2021-10-22-229. 求众数 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-22-229.%20求众数%20II.md)
+- [2021-10-23-492. 构造矩形](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-23-492.%20构造矩形.md)
 
