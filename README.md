@@ -83,4 +83,5 @@
 - [2021-10-25-240. 搜索二维矩阵 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-25-240.%20搜索二维矩阵%20II.md)
 - [2021-10-26-496. 下一个更大元素 I](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-26-496.%20下一个更大元素%20I.md)
 - [2021-10-27-301. 删除无效的括号](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-27-301.%20删除无效的括号.md)
+- [2021-10-28-869. 重新排序得到 2 的幂](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-27-301.%20删除无效的括号.md)
 
