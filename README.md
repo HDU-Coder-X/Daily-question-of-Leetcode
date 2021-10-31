@@ -89,3 +89,5 @@
 - [2021-10-31-500. 键盘行](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-31-500.%20键盘行.md)
 
 ## 🚩2021年11月
+
+- [2021-11-01-575. 分糖果](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-01-575.%20分糖果.md)
