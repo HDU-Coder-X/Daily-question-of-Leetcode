@@ -54,7 +54,7 @@
 - [2021-09-29-517. 超级洗衣机](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-09-29-517.%20超级洗衣机.md)
 - [2021-09-30-223. 矩形面积](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-09-30-223.%20%E7%9F%A9%E5%BD%A2%E9%9D%A2%E7%A7%AF.md)
 
-## 🚩2021年10月（更新中...）
+## 🚩2021年10月
 
 - [2021-10-01-1436. 旅行终点站](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-01-1436.%20旅行终点站.md)
 - [2021-10-02-405. 数字转换为十六进制数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-02-405.%20%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.md)
@@ -86,4 +86,6 @@
 - [2021-10-28-869. 重新排序得到 2 的幂](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-28-869.%20重新排序得到%202%20的幂.md)
 - [2021-10-29-335. 路径交叉](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-29-335.%20路径交叉.md)
 - [2021-10-30-260. 只出现一次的数字 III](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-30-260.%20只出现一次的数字%20III.md)
+- [2021-10-31-500. 键盘行](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-10-31-500.%20键盘行.md)
 
+## 🚩2021年11月
