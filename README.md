@@ -94,3 +94,4 @@
 - [2021-11-02-237. 删除链表中的节点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-02-237.%20删除链表中的节点.md)
 - [2021-11-03-407. 接雨水 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-03-407.%20接雨水%20II.md)
 - [2021-11-04-367. 有效的完全平方数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-04-367.%20有效的完全平方数.md)
+- [2021-11-05-1218. 最长定差子序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-05-1218.%20最长定差子序列.md)
