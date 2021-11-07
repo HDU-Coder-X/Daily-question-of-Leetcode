@@ -96,3 +96,4 @@
 - [2021-11-04-367. 有效的完全平方数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-04-367.%20有效的完全平方数.md)
 - [2021-11-05-1218. 最长定差子序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-05-1218.%20最长定差子序列.md)
 - [2021-11-06-268. 丢失的数字](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-06-268.%20丢失的数字.md)
+- [2021-11-07-598. 范围求和 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-07-598.%20范围求和%20II.md)
