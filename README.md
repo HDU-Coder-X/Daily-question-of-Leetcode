@@ -99,3 +99,4 @@
 - [2021-11-07-598. 范围求和 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-07-598.%20范围求和%20II.md)
 - [2021-11-08-299. 猜数字游戏](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-08-299.%20猜数字游戏.md)
 - [2021-11-09-488. 祖玛游戏](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-09-488.%20祖玛游戏.md)
+- [2021-11-10-495. 提莫攻击](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-10-495.%20提莫攻击.md)
