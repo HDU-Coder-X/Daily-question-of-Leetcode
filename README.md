@@ -102,3 +102,4 @@
 - [2021-11-10-495. 提莫攻击](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-10-495.%20提莫攻击.md)
 - [2021-11-11-629. K个逆序对数组](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-11-629.%20K个逆序对数组.md)
 - [2021-11-12-375. 猜数字大小 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-12-375.%20猜数字大小%20II.md)
+- [2021-11-13-520. 检测大写字母](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-13-520.%20检测大写字母.md)
