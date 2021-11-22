@@ -111,4 +111,5 @@
 - [2021-11-19-397. 整数替换](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-19-397.%20整数替换.md)
 - [2021-11-20-594. 最长和谐子序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-20-594.%20最长和谐子序列.md)
 - [2021-11-21-559. N 叉树的最大深度](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-21-559.%20N%20叉树的最大深度.md)
+- [2021-11-22-384. 打乱数组](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-22-384.%20打乱数组.md)
 
