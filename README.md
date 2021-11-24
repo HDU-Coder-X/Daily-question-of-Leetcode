@@ -113,4 +113,5 @@
 - [2021-11-21-559. N 叉树的最大深度](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-21-559.%20N%20叉树的最大深度.md)
 - [2021-11-22-384. 打乱数组](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-22-384.%20打乱数组.md)
 - [2021-11-23-859. 亲密字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-23-859.%20亲密字符串.md)
+- [2021-11-24-423. 从英文中重建数字](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-24-423.%20从英文中重建数字.md)
 
