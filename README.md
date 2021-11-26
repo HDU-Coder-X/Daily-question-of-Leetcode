@@ -115,4 +115,5 @@
 - [2021-11-23-859. 亲密字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-23-859.%20亲密字符串.md)
 - [2021-11-24-423. 从英文中重建数字](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-24-423.%20从英文中重建数字.md)
 - [2021-11-25-458. 可怜的小猪](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-25-458.%20可怜的小猪.md)
+- [2021-11-26-700. 二叉搜索树中的搜索](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-26-700.%20二叉搜索树中的搜索.md)
 
