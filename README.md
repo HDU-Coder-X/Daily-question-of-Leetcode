@@ -119,4 +119,5 @@
 - [2021-11-27-519. 随机翻转矩阵](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-27-519.%20随机翻转矩阵.md)
 - [2021-11-28-438. 找到字符串中所有字母异位词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-28-438.%20找到字符串中所有字母异位词.md)
 - [2021-11-29-786. 第K个最小的素数分数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-29-786.%20第K个最小的素数分数.md)
+- [2021-11-30-400. 第N位数字](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-30-400.%20第N位数字.md)
 
