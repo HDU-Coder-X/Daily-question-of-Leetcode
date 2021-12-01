@@ -121,3 +121,7 @@
 - [2021-11-29-786. 第K个最小的素数分数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-29-786.%20第K个最小的素数分数.md)
 - [2021-11-30-400. 第N位数字](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-11-30-400.%20第N位数字.md)
 
+## 🚩2021年12月
+
+- [2021-12-01-1446. 连续字符](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-01-1446.%20连续字符.md)
+
