@@ -126,4 +126,5 @@
 - [2021-12-01-1446. 连续字符](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-01-1446.%20连续字符.md)
 - [2021-12-02-506. 相对名次](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-02-506.%20相对名次.md)
 - [2021-12-03-1005. K次取反后最大化的数组和](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-03-1005.%20K次取反后最大化的数组和.md)
+- [2021-12-04-383. 赎金信](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-04-383.%20赎金信.md)
 
