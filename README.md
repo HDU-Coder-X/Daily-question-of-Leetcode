@@ -129,4 +129,5 @@
 - [2021-12-04-383. 赎金信](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-04-383.%20赎金信.md)
 - [2021-12-05-372. 超级次方](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-05-372.%20超级次方.md)
 - [2021-12-06-1816. 截断句子](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-06-1816.%20截断句子.md)
+- [2021-12-07-1034. 边界着色](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-07-1034.%20边界着色.md)
 
