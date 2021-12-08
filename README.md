@@ -131,4 +131,5 @@
 - [2021-12-06-1816. 截断句子](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-06-1816.%20截断句子.md)
 - [2021-12-07-1034. 边界着色](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-07-1034.%20边界着色.md)
 - [2021-12-08-689. 三个无重叠子数组的最大和](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-08-689.%20三个无重叠子数组的最大和.md)
+- [2021-12-09-794. 有效的井字游戏](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-09-794.%20有效的井字游戏.md)
 
