@@ -138,4 +138,5 @@
 - [2021-12-13-807. 保持城市天际线](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-13-807.%20保持城市天际线.md)
 - [2021-12-14-630. 课程表III](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-14-630.%20课程表III.md)
 - [2021-12-15-851. 喧闹和富有](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-15-851.%20喧闹和富有.md)
+- [2021-12-16-1610. 可见点的最大数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-16-1610.%20可见点的最大数目.md)
 
