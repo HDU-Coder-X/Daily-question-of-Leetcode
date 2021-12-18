@@ -141,4 +141,5 @@
 - [2021-12-16-1610. 可见点的最大数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-16-1610.%20可见点的最大数目.md)
 - [2021-12-17-1518. 换酒问题](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-17-1518.%20换酒问题.md)
 - [2021-12-18-419. 甲板上的战舰](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-18-419.%20甲板上的战舰.md)
+- [2021-12-19-997. 找到小镇的法官](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-19-997.%20找到小镇的法官.md)
 
