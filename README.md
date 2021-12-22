@@ -144,4 +144,5 @@
 - [2021-12-19-997. 找到小镇的法官](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-19-997.%20找到小镇的法官.md)
 - [2021-12-20-475. 供暖器](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-20-475.%20供暖器.md)
 - [2021-12-21-1154. 一年中的第几天](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-21-1154.%20一年中的第几天.md)
+- [2021-12-22-686. 重复叠加字符串匹配](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-22-686.%20重复叠加字符串匹配.md)
 
