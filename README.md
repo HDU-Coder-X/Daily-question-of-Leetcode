@@ -146,4 +146,5 @@
 - [2021-12-21-1154. 一年中的第几天](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-21-1154.%20一年中的第几天.md)
 - [2021-12-22-686. 重复叠加字符串匹配](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-22-686.%20重复叠加字符串匹配.md)
 - [2021-12-23-1044. 最长重复子串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-23-1044.%20最长重复子串.md)
+- [2021-12-24-1705. 吃苹果的最大数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-24-1705.%20吃苹果的最大数目.md)
 
