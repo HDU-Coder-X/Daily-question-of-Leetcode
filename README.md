@@ -149,4 +149,5 @@
 - [2021-12-24-1705. 吃苹果的最大数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-24-1705.%20吃苹果的最大数目.md)
 - [2021-12-25-1609. 奇偶树](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-25-1609.%20奇偶树.md)
 - [2021-12-26-1078. Bigram分词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-26-1078.%20Bigram分词.md)
+- [2021-12-27-825. 适龄的朋友](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-27-825.%20适龄的朋友.md)
 
