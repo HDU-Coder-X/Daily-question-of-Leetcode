@@ -151,4 +151,5 @@
 - [2021-12-26-1078. Bigram分词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-26-1078.%20Bigram分词.md)
 - [2021-12-27-825. 适龄的朋友](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-27-825.%20适龄的朋友.md)
 - [2021-12-28-472. 连接词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-28-472.%20连接词.md)
+- [2021-12-29-1995. 统计特殊四元组](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-29-1995.%20统计特殊四元组.md)
 
