@@ -155,4 +155,5 @@
 - [2021-12-30-846. 一手顺子](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-30-846.%20一手顺子.md)
 - [2021-12-31-507. 完美数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2021-12-31-507.%20完美数.md)
 - [2022-01-01-2022. 将一维数组转变成二维数组](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-01-2022.%20将一维数组转变成二维数组.md)
+- [2022-01-02-390. 消除游戏](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-02-390.%20消除游戏.md)
 
