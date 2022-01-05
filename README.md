@@ -158,4 +158,5 @@
 - [2022-01-02-390. 消除游戏](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-02-390.%20消除游戏.md)
 - [2022-01-03-1185. 一周中的第几天](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-03-1185.%20一周中的第几天.md)
 - [2022-01-04-913. 猫和老鼠](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-04-913.%20猫和老鼠.md)
+- [2022-01-05-1576. 替换所有的问号](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-05-1576.%20替换所有的问号.md)
 
