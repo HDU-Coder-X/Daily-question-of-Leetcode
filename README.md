@@ -160,4 +160,5 @@
 - [2022-01-04-913. 猫和老鼠](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-04-913.%20猫和老鼠.md)
 - [2022-01-05-1576. 替换所有的问号](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-05-1576.%20替换所有的问号.md)
 - [2022-01-06-71. 简化路径](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-06-71.%20简化路径.md)
+- [2022-01-07-1614. 括号的最大嵌套深度](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-07-1614.%20括号的最大嵌套深度.md)
 
