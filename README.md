@@ -162,4 +162,6 @@
 - [2022-01-06-71. 简化路径](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-06-71.%20简化路径.md)
 - [2022-01-07-1614. 括号的最大嵌套深度](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-07-1614.%20括号的最大嵌套深度.md)
 - [2022-01-08-89. 格雷编码](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-08-89.%20格雷编码.md)
+- [2022-01-09-1629. 按键持续时间最长的键](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-09-1629.%20按键持续时间最长的键.md)
+- [2022-01-10-306. 累加数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-10-306.%20累加数.md)
 
