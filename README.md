@@ -165,4 +165,5 @@
 - [2022-01-09-1629. 按键持续时间最长的键](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-09-1629.%20按键持续时间最长的键.md)
 - [2022-01-10-306. 累加数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-10-306.%20累加数.md)
 - [2022-01-11-1036. 逃离大迷宫](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-11-1036.%20逃离大迷宫.md)
+- [2022-01-12-334. 递增的三元子序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-12-334.%20递增的三元子序列.md)
 
