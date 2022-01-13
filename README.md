@@ -167,4 +167,5 @@
 - [2022-01-11-1036. 逃离大迷宫](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-11-1036.%20逃离大迷宫.md)
 - [2022-01-12-334. 递增的三元子序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-12-334.%20递增的三元子序列.md)
 - [2022-01-13-747. 至少是其他数字两倍的最大数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-13-747.%20至少是其他数字两倍的最大数.md)
+- [2022-01-14-373. 查找和最小的K对数字](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-14-373.%20查找和最小的K对数字.md)
 
