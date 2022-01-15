@@ -169,4 +169,5 @@
 - [2022-01-13-747. 至少是其他数字两倍的最大数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-13-747.%20至少是其他数字两倍的最大数.md)
 - [2022-01-14-373. 查找和最小的K对数字](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-14-373.%20查找和最小的K对数字.md)
 - [2022-01-15-1716. 计算力扣银行的钱](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-15-1716.%20计算力扣银行的钱.md)
+- [2022-01-16-382. 链表随机节点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-16-382.%20链表随机节点.md)
 
