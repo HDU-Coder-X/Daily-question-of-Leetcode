@@ -176,3 +176,5 @@
 - [2022-01-17-1220. 统计元音字母序列的数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-17-1220.%20统计元音字母序列的数目.md)
 - [2022-01-18-539. 最小时间差](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-18-539.%20最小时间差.md)
 - [2022-01-19-219. 存在重复元素 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-19-219.%20存在重复元素%20II.md)
+- [2022-1-20-2029. 石子游戏 IX](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-1-20-2029.%20石子游戏%20IX.md)
+
