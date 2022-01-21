@@ -177,4 +177,4 @@
 - [2022-01-18-539. 最小时间差](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-18-539.%20最小时间差.md)
 - [2022-01-19-219. 存在重复元素 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-19-219.%20存在重复元素%20II.md)
 - [2022-1-20-2029. 石子游戏 IX](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-1-20-2029.%20石子游戏%20IX.md)
-
+- [2022-1-21-1345. 跳跃游戏 IV](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-1-20-1345.%20跳跃游戏%20IV.md)
