@@ -178,3 +178,4 @@
 - [2022-01-19-219. 存在重复元素 II](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-19-219.%20存在重复元素%20II.md)
 - [2022-01-20-2029. 石子游戏 IX](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-20-2029.%20石子游戏%20IX.md)
 - [2022-01-21-1345. 跳跃游戏 IV](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-21-1345.%20跳跃游戏%20IV.md)
+- [2022-01-22-1332. 删除回文子序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-22-1332.%20删除回文子序列.md)
