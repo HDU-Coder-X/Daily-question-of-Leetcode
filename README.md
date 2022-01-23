@@ -179,3 +179,4 @@
 - [2022-01-20-2029. 石子游戏 IX](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-20-2029.%20石子游戏%20IX.md)
 - [2022-01-21-1345. 跳跃游戏 IV](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-21-1345.%20跳跃游戏%20IV.md)
 - [2022-01-22-1332. 删除回文子序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-22-1332.%20删除回文子序列.md)
+- [2022-01-23-2034. 股票价格波动](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-23-2034.%20股票价格波动.md)
