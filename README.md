@@ -181,3 +181,4 @@
 - [2022-01-22-1332. 删除回文子序列](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-22-1332.%20删除回文子序列.md)
 - [2022-01-23-2034. 股票价格波动](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-23-2034.%20股票价格波动.md)
 - [2022-01-24-2045. 到达目的地的第二短时间](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-24-2045.%20到达目的地的第二短时间.md)
+- [2022-01-25-1688. 比赛中的配对次数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-25-1688.%20比赛中的配对次数.md)
