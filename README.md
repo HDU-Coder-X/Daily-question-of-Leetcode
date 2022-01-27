@@ -183,3 +183,5 @@
 - [2022-01-24-2045. 到达目的地的第二短时间](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-24-2045.%20到达目的地的第二短时间.md)
 - [2022-01-25-1688. 比赛中的配对次数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-25-1688.%20比赛中的配对次数.md)
 - [2022-01-26-2013. 检测正方形](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-26-2013.%20检测正方形.md)
+- [2022-01-27-2047. 句子中的有效单词数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-27-2047.%20句子中的有效单词数.md)
+
