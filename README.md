@@ -185,4 +185,5 @@
 - [2022-01-26-2013. 检测正方形](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-26-2013.%20检测正方形.md)
 - [2022-01-27-2047. 句子中的有效单词数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-27-2047.%20句子中的有效单词数.md)
 - [2022-01-28-1996. 游戏中弱角色的数量](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-28-1996.%20游戏中弱角色的数量.md)
+- [2022-01-29-1765. 地图中的最高点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-29-1765.%20地图中的最高点.md)
 
