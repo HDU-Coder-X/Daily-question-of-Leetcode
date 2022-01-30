@@ -186,4 +186,4 @@
 - [2022-01-27-2047. 句子中的有效单词数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-27-2047.%20句子中的有效单词数.md)
 - [2022-01-28-1996. 游戏中弱角色的数量](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-28-1996.%20游戏中弱角色的数量.md)
 - [2022-01-29-1765. 地图中的最高点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-29-1765.%20地图中的最高点.md)
-
+- [2022-01-30-884. 两句话中的不常见单词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-30-884.%20两句话中的不常见单词.md)
