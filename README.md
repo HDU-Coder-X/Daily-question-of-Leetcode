@@ -187,3 +187,4 @@
 - [2022-01-28-1996. 游戏中弱角色的数量](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-28-1996.%20游戏中弱角色的数量.md)
 - [2022-01-29-1765. 地图中的最高点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-29-1765.%20地图中的最高点.md)
 - [2022-01-30-884. 两句话中的不常见单词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-30-884.%20两句话中的不常见单词.md)
+- [2022-01-31-1342. 将数字变成 0 的操作次数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-31-1342.%20将数字变成%200%20的操作次数.md)
