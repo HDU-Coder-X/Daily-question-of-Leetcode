@@ -188,3 +188,8 @@
 - [2022-01-29-1765. 地图中的最高点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-29-1765.%20地图中的最高点.md)
 - [2022-01-30-884. 两句话中的不常见单词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-30-884.%20两句话中的不常见单词.md)
 - [2022-01-31-1342. 将数字变成 0 的操作次数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-01-31-1342.%20将数字变成%200%20的操作次数.md)
+
+## 🚩2022年01月
+
+- [2022-02-01-1763. 最长的美好子字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-01-1763.％20最长的美好子字符串.md)
+
