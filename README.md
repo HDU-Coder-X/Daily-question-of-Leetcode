@@ -192,10 +192,6 @@
 ## 🚩2022年02月
 
 - [2022-02-01-1763. 最长的美好子字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-01-1763.%20最长的美好子字符串.md)
-
 - [2022-02-02-2000. 反转单词前缀](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-02-2000.%20反转单词前缀.md)
-
-
-
-  
+- [2022-02-03-1414. 和为 K 的最少斐波那契数字数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-03-1414.%20和为 K 的最少斐波那契数字数目.md)
 
