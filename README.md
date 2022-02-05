@@ -195,4 +195,5 @@
 - [2022-02-02-2000. 反转单词前缀](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-02-2000.%20反转单词前缀.md)
 - [2022-02-03-1414. 和为 K 的最少斐波那契数字数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-03-1414.%20和为%20K%20的最少斐波那契数字数目.md)
 - [2022-02-04-1725. 可以形成最大正方形的矩形数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-04-1725.%20可以形成最大正方形的矩形数目.md)
+- [2022-02-05-1219. 黄金矿工](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-05-1219.%20黄金矿工.md)
 
