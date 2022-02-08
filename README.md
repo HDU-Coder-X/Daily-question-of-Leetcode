@@ -198,4 +198,5 @@
 - [2022-02-05-1219. 黄金矿工](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-05-1219.%20黄金矿工.md)
 - [2022-02-06-1748. 唯一元素的和](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-06-1748.%20唯一元素的和.md)
 - [2022-02-07-1405. 最长快乐字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-07-1405.%20最长快乐字符串.md)
+- [2022-02-08-1001. 网格照明](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-08-1001.%20网格照明.md)
 
