@@ -200,4 +200,5 @@
 - [2022-02-07-1405. 最长快乐字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-07-1405.%20最长快乐字符串.md)
 - [2022-02-08-1001. 网格照明](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-08-1001.%20网格照明.md)
 - [2022-02-09-2006. 差的绝对值为 K 的数对数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-09-2006.%20差的绝对值为%20K%20的数对数目.md)
+- [2022-02-10-1447. 最简分数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-10-1447.%20最简分数.md)
 
