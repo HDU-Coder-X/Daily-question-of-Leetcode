@@ -202,4 +202,5 @@
 - [2022-02-09-2006. 差的绝对值为 K 的数对数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-09-2006.%20差的绝对值为%20K%20的数对数目.md)
 - [2022-02-10-1447. 最简分数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-10-1447.%20最简分数.md)
 - [2022-02-11-1984. 学生分数的最小差值](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/22022-02-11-1984.%20学生分数的最小差值.md)
+- [2022-02-12-1020. 飞地的数量](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-12-1020.%20飞地的数量.md)
 
