@@ -204,4 +204,5 @@
 - [2022-02-11-1984. 学生分数的最小差值](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/22022-02-11-1984.%20学生分数的最小差值.md)
 - [2022-02-12-1020. 飞地的数量](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-12-1020.%20飞地的数量.md)
 - [2022-02-13-1189. “气球” 的最大数量](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-13-1189.%20“气球”%20的最大数量.md)
+- [2022-02-14-540. 有序数组中的单一元素](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-14-540.%20有序数组中的单一元素.md)
 
