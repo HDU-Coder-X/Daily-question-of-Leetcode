@@ -207,4 +207,5 @@
 - [2022-02-14-540. 有序数组中的单一元素](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-14-540.%20有序数组中的单一元素.md)
 - [2022-02-15-1380. 矩阵中的幸运数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-15-1380.%20矩阵中的幸运数.md)
 - [2022-02-16-1719. 重构一棵树的方案数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-16-1719.%20重构一棵树的方案数.md)
+- [2022-02-17-688. 骑士在棋盘上的概率](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-17-688.%20骑士在棋盘上的概率.md)
 
