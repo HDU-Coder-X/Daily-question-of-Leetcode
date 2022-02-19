@@ -209,4 +209,5 @@
 - [2022-02-16-1719. 重构一棵树的方案数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-16-1719.%20重构一棵树的方案数.md)
 - [2022-02-17-688. 骑士在棋盘上的概率](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-17-688.%20骑士在棋盘上的概率.md)
 - [2022-02-18-1791. 找出星型图的中心节点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-18-1791.%20找出星型图的中心节点.md)
+- [2022-02-19-969. 煎饼排序](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-19-969.%20煎饼排序.md)
 
