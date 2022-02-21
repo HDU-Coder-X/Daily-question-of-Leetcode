@@ -210,4 +210,6 @@
 - [2022-02-17-688. 骑士在棋盘上的概率](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-17-688.%20骑士在棋盘上的概率.md)
 - [2022-02-18-1791. 找出星型图的中心节点](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-18-1791.%20找出星型图的中心节点.md)
 - [2022-02-19-969. 煎饼排序](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-19-969.%20煎饼排序.md)
+- [2022-02-20-717. 1 比特与 2 比特字符](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-20-717.%201%20比特与%202%20比特字符.md)
+- [2022-02-21-838. 推多米诺](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-21-838.%20推多米诺.md)
 
