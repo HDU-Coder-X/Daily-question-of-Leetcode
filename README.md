@@ -215,3 +215,4 @@
 - [2022-02-22-1994. 好子集的数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-22-1994.%20好子集的数目.md)
 - [2022-02-23-917. 仅仅反转字母](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-23-917.%20仅仅反转字母.md)
 
+## 最近事情太多，亲戚去世，搬家，等安定下来再补齐（看完请删除）
