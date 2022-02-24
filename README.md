@@ -214,3 +214,4 @@
 - [2022-02-21-838. 推多米诺](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-21-838.%20推多米诺.md)
 - [2022-02-22-1994. 好子集的数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-22-1994.%20好子集的数目.md)
 - [2022-02-23-917. 仅仅反转字母](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-23-917.%20仅仅反转字母.md)
+- [2022-02-24-1706. 球会落何处](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-24-1706.%20球会落何处.md)
