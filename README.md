@@ -216,3 +216,4 @@
 - [2022-02-23-917. 仅仅反转字母](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-23-917.%20仅仅反转字母.md)
 - [2022-02-24-1706. 球会落何处](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-24-1706.%20球会落何处.md)
 - [2022-02-25-537. 复数乘法](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-25-537.%20复数乘法.md)
+- [2022-02-26-2016. 增量元素之间的最大差值](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-26-2016.%20增量元素之间的最大差值.md)
