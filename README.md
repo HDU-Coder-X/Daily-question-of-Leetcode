@@ -220,3 +220,6 @@
 - [2022-02-27-553. 最优除法](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-27-553.%20最优除法.md)
 - [2022-02-28-1601. 最多可达成的换楼请求数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-02-28-1601.%20最多可达成的换楼请求数目.md)
 
+## 🚩2022年03月
+
+- [2022-03-01-6. Z 字形变换](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-01-6.%20Z%20字形变换.md)
