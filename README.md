@@ -222,4 +222,4 @@
 
 ## 🚩2022年03月
 
-- [2022-03-01-6. Z 字形变换](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-01-6.%20Z 字形变换.md)
+- [2022-03-01-6. Z 字形变换](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-01-6.%20Z%20字形变换.md)
