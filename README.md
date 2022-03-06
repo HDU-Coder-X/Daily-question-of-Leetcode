@@ -227,4 +227,5 @@
 - [2022-03-03-258. 各位相加](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-03-258.%20各位相加.md)
 - [2022-03-04-2104. 子数组范围和](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-04-2104.%20子数组范围和.md)
 - [2022-03-05-521. 最长特殊序列 Ⅰ](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-05-521.%20最长特殊序列%20Ⅰ.md)
+- [2022-03-06-2100. 适合打劫银行的日子](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-06-2100.%20适合打劫银行的日子.md)
 
