@@ -230,4 +230,5 @@
 - [2022-03-06-2100. 适合打劫银行的日子](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-06-2100.%20适合打劫银行的日子.md)
 - [2022-03-07-504. 七进制数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-07-504.%20七进制数.md)
 - [2022-03-08-2055. 蜡烛之间的盘子](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-08-2055.%20蜡烛之间的盘子.md)
+- [2022-03-09-798. 得分最高的最小轮调](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-09-798.%20得分最高的最小轮调.md)
 
