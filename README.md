@@ -233,4 +233,5 @@
 - [2022-03-09-798. 得分最高的最小轮调](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-09-798.%20得分最高的最小轮调.md)
 - [2022-03-10-589. N 叉树的前序遍历](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-10-589.%20N%20叉树的前序遍历.md)
 - [2022-03-11-2049. 统计最高分的节点数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-11-2049.%20统计最高分的节点数目.md)
+- [2022-03-12-590. N 叉树的后序遍历](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-12-590.%20N%20叉树的后序遍历.md)
 
