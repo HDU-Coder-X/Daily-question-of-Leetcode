@@ -234,4 +234,6 @@
 - [2022-03-10-589. N 叉树的前序遍历](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-10-589.%20N%20叉树的前序遍历.md)
 - [2022-03-11-2049. 统计最高分的节点数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-11-2049.%20统计最高分的节点数目.md)
 - [2022-03-12-590. N 叉树的后序遍历](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-12-590.%20N%20叉树的后序遍历.md)
+- [2022-03-13-393. UTF-8 编码验证](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-13-393.%20UTF-8%20编码验证.md)
+- [2022-03-14-599. 两个列表的最小索引总和](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-14-599.%20两个列表的最小索引总和.md)
 
