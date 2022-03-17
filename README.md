@@ -237,4 +237,6 @@
 - [2022-03-13-393. UTF-8 编码验证](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-13-393.%20UTF-8%20编码验证.md)
 - [2022-03-14-599. 两个列表的最小索引总和](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-14-599.%20两个列表的最小索引总和.md)
 - [2022-03-15-2044. 统计按位或能得到最大值的子集数目](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-15-2044.%20统计按位或能得到最大值的子集数目.md)
+- [2022-03-16-432. 全 O(1) 的数据结构](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-16-432.%20全%20O(1)%20的数据结构.md)
+- [2022-03-17-720. 词典中最长的单词](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-17-720.%20词典中最长的单词.md)
 
