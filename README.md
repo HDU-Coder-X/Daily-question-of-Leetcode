@@ -244,4 +244,6 @@
 - [2022-03-20-2039. 网络空闲的时刻](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-20-2039.%20网络空闲的时刻.md)
 - [2022-03-21-653. 两数之和 IV - 输入 BST](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-21-653.%20两数之和%20IV%20-%20输入%20BST.md)
 - [2022-03-22-2038. 如果相邻两个颜色均相同则删除当前颜色](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-22-2038.%20如果相邻两个颜色均相同则删除当前颜色.md)
+- [2022-03-23-440. 字典序的第K小数字](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-23-440.%20字典序的第K小数字.md)
+- [2022-03-24-661. 图片平滑器](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-24-661.%20图片平滑器.md)
 
