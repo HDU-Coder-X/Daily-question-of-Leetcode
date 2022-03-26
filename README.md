@@ -247,4 +247,5 @@
 - [2022-03-23-440. 字典序的第K小数字](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-23-440.%20字典序的第K小数字.md)
 - [2022-03-24-661. 图片平滑器](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-24-661.%20图片平滑器.md)
 - [2022-03-25-172. 阶乘后的零](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-25-172.%20阶乘后的零.md)
+- [2022-03-26-682. 棒球比赛](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-26-682.%20棒球比赛.md)
 
