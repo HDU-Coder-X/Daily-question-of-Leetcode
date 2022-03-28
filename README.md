@@ -249,4 +249,5 @@
 - [2022-03-25-172. 阶乘后的零](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-25-172.%20阶乘后的零.md)
 - [2022-03-26-682. 棒球比赛](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-26-682.%20棒球比赛.md)
 - [2022-03-27-2028. 找出缺失的观测数据](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-27-2028.%20找出缺失的观测数据.md)
+- [2022-03-28-693. 交替位二进制数](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-03-28-693.%20交替位二进制数.md)
 
