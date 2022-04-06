@@ -259,4 +259,5 @@
 - [2022-04-01-954. 二倍数对数组](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-01-954.%20二倍数对数组.md)
 - [2022-04-03-744. 寻找比目标字母大的最小字母](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-03-744.%20寻找比目标字母大的最小字母.md)
 - [2022-04-04-307. 区域和检索 - 数组可修改](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-04-307.%20区域和检索%20-%20数组可修改.md)
+- [2022-04-05-762. 二进制表示中质数个计算置位](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-05-762.%20二进制表示中质数个计算置位.md)
 
