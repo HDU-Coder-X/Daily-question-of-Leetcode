@@ -262,4 +262,5 @@
 - [2022-04-05-762. 二进制表示中质数个计算置位](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-05-762.%20二进制表示中质数个计算置位.md)
 - [2022-04-06-310. 最小高度树](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-06-310.%20最小高度树.md)
 - [2022-04-07-796. 旋转字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-07-796.%20旋转字符串.md)
+- [2022-04-08-429. N 叉树的层序遍历](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-08-429.%20N%20叉树的层序遍历.md)
 
