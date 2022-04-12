@@ -264,5 +264,3 @@
 - [2022-04-07-796. 旋转字符串](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-07-796.%20旋转字符串.md)
 - [2022-04-08-429. N 叉树的层序遍历](https://github.com/HDU-Coder-X/Daily-question-of-Leetcode/blob/master/questions/2022-04-08-429.%20N%20叉树的层序遍历.md)
 
-## 短暂的离别，最近刷题的效率、质量明显不如之前，只有困难题对我来说才有收获，每天花费十几到三十分钟而没有任何提升，我的技术还很浅，我决定把这时间腾出来提升自己，很高兴这几个月的陪伴。
-## 我还会继续关注的，see you。看完请删除。
